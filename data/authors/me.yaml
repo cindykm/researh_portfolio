@@ -40,4 +40,10 @@ experience:
     summary: |
       -	Overall charge in DTaQ the training programs
 
+links:
+  - icon: at-symbol
+    url: "km_lee@pusan.ac.kr" # 👉 박사님 실제 이메일로 고치세요!
+    label: E-mail Me
+
+
 
