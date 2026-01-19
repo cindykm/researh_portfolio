@@ -22,12 +22,7 @@ affiliations:
     url: https://www.dtaq.re.kr
 
 # 관심 연구 분야 (키워드)
-interests: |
-  - HRM
-  - HRD
-  - Organizational psychology
-  - Personality
-  - Performance assesement"
+interests: "HRM, HRD, Organizational psychology, Personality, Performance assesement"
 
 # 학력 (박사 과정)
 education:
