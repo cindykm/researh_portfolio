@@ -3,7 +3,7 @@ slug: admin
 is_owner: true # 가장 중요! (주인 설정)
 
 name:
-  display: Kyoungmyoun Lee
+  display: "Kyoungmyoun\u00A0Lee"
   given: Kyoungmyoun
   family: Lee
 
