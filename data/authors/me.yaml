@@ -8,7 +8,7 @@ name:
   family: Lee
 
 # 프로필 사진 밑에 나오는 직함
-role: PhD Student & Senior Researcher
+role: PhD Student & Senior Administrator
 
 # 간단 소개글
 bio: "안녕하세요."
@@ -22,14 +22,25 @@ affiliations:
     url: https://www.dtaq.re.kr
 
 # 관심 연구 분야 (키워드)
-interests: "HRM, HRD, Organizational psychology, Personality, Performance assesement"
+interests: |
+  - HRM
+  - HRD
+  - Organizational psychology
+  - Personality
+  - Performance assesement"
 
 # 학력 (박사 과정)
 education:
-  - degree: PhD Student in Business Administration
+  - degree: Ph.D. Student in Business Administration
     institution: Pusan National University
     start: 2025-09-01
-   
+  - degree: M.A. in Business Administration
+    institution: Pusan National University
+    start: 2023-03-01
+  - degree: B.A. in Library, Archives and Information Studies
+    institution: Pusan National University
+    start: 2007-03-01
+  
 
 # 경력 (회사)
 experience:
