@@ -11,7 +11,7 @@ name:
 role: PhD Student & Senior Researcher
 
 # 간단 소개글
-bio: |
+bio: "안녕하세요."
 
 
 # 소속 (학교 & 회사)
@@ -22,8 +22,7 @@ affiliations:
     url: https://www.dtaq.re.kr
 
 # 관심 연구 분야 (키워드)
-interests:
-  - 
+interests: "HRM, HRD, Organizational psychology, Personality, Performance assesement"
 
 # 학력 (박사 과정)
 education:
